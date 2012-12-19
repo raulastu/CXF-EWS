@@ -1,0 +1,1 @@
+wsdl2java works neatly.
