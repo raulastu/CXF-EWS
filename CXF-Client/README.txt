@@ -1,0 +1,10 @@
+modify the user 
+
+#########################
+
+wsdl2java -client -frontend jaxws21 -ant http://192.168.1.107:8080/java_first_jaxws/services/hello_world?wsdl
+
+Ant commands 
+
+ant build
+ant HelloWorldClient
